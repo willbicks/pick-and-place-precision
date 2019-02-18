@@ -1,0 +1,19 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"G***","LOGO","logo_tiny",37.000000,32.000000,180.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",5.000000,15.000000,0.000000,bottom
+"REF**","QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm","QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm",12.000000,30.000000,0.000000,bottom
+"REF**","QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm","QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm",30.000000,10.000000,0.000000,bottom
+"REF**","QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm","QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm",10.000000,10.000000,0.000000,bottom
+"REF**","KiCAD Logo","Symbol_KiCAD-Logo_CopperAndSilkScreenTop",37.500000,42.500000,180.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",5.000000,5.000000,0.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",15.000000,5.000000,0.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",15.000000,15.000000,0.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",19.000000,23.000000,0.000000,bottom
+"REF**","WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm","WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",20.000000,10.000000,0.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",25.000000,15.000000,0.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",25.000000,5.000000,0.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",35.000000,15.000000,0.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",35.000000,5.000000,0.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",5.000000,23.000000,0.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",5.000000,37.000000,0.000000,bottom
+"REF**","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop","Fiducial_1mm_Dia_2.54mm_Outer_CopperTop",19.000000,37.000000,0.000000,bottom
