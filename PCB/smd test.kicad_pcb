@@ -58,7 +58,7 @@
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.05)
-    (aux_axis_origin 0 0)
+    (aux_axis_origin 146 93.75)
     (grid_origin 146 93.75)
     (visible_elements 7FFFFF7F)
     (pcbplotparams
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerb/"))
+      (outputdirectory "../Placement Files/"))
   )
 
   (net 0 "")
@@ -105,7 +105,7 @@
     (at 165 70.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -121,7 +121,7 @@
     (at 165 56.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -137,7 +137,7 @@
     (at 151 56.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -153,7 +153,7 @@
     (at 151 70.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -169,7 +169,7 @@
     (at 181 88.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -185,7 +185,7 @@
     (at 181 78.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -201,7 +201,7 @@
     (at 171 88.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -217,7 +217,7 @@
     (at 171 78.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -307,7 +307,7 @@
     (at 151 78.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -323,7 +323,7 @@
     (at 161 78.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -339,7 +339,7 @@
     (at 161 88.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -355,7 +355,7 @@
     (at 151 88.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 -0.7) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -1163,7 +1163,7 @@
     (at 188.5 66.25)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1179,7 +1179,7 @@
     (at 188.5 51.25)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1195,7 +1195,7 @@
     (at 173.5 51.25)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1211,7 +1211,7 @@
     (at 173.5 66.25)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -2019,7 +2019,7 @@
     (at 166 66.25)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -2032,18 +2032,18 @@
   )
 
   (module Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 5C6A1CAB) (tstamp 5C6A48D8)
-    (at 166 51.25)
+    (at 166 51.25 90)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
-    (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
+    (attr smd)
+    (fp_text reference REF** (at 3.4 0.7 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (at 0 -1.8) (layer F.Fab) hide
+    (fp_text value Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (at 0 -1.8 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_circle (center 0 0) (end 1.55 0) (layer F.CrtYd) (width 0.05))
-    (pad ~ smd circle (at 0 0) (size 1 1) (layers F.Cu F.Mask)
+    (pad ~ smd circle (at 0 0 90) (size 1 1) (layers F.Cu F.Mask)
       (solder_mask_margin 0.77) (clearance 0.77))
   )
 
@@ -2051,7 +2051,7 @@
     (at 151 51.25)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -2067,7 +2067,7 @@
     (at 151 66.25)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -2875,7 +2875,7 @@
     (at 173.5 88.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -2891,7 +2891,7 @@
     (at 173.5 73.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -2907,7 +2907,7 @@
     (at 188.5 73.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -2923,7 +2923,7 @@
     (at 188.5 88.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -3683,7 +3683,7 @@
     (at 151 73.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -3699,7 +3699,7 @@
     (at 166 73.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -3715,7 +3715,7 @@
     (at 166 88.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -3762,7 +3762,7 @@
     (at 151 88.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
-    (attr virtual)
+    (attr smd)
     (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -4170,6 +4170,7 @@
     (at 183.5 51.25 180)
     (descr "Symbol, KiCAD-Logo, Silk & Copper Top,")
     (tags "Symbol, KiCAD-Logo, Silk & Copper Top,")
+    (attr smd)
     (fp_text reference REF** (at 0 0 180) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
@@ -4710,6 +4711,7 @@
 
   (module local:logo_tiny (layer B.Cu) (tedit 0) (tstamp 5C6B7A24)
     (at 183 61.75 180)
+    (attr smd)
     (fp_text reference G*** (at 0 0 180) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
@@ -5068,6 +5070,10 @@
     (fp_line (start 2.667 -2.032) (end 2.667 -2.413) (layer B.Cu) (width 0.381))
   )
 
+  (gr_line (start 193 93.75) (end 193.5 93.25) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 193 46.25) (end 193.5 46.75) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 146 46.75) (end 146.5 46.25) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 146 93.25) (end 146.5 93.75) (layer Edge.Cuts) (width 0.15))
   (gr_text "a Will Bicks project\nbicks.us/pnp_pres" (at 183.5 56.25) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
   )
@@ -5217,14 +5223,10 @@
   (gr_text "PnP PRECISION TEST" (at 170 69.75) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_line (start 146 91.25) (end 146 48.75) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 148.5 93.75) (end 146 91.25) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 191 93.75) (end 148.5 93.75) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 193.5 91.25) (end 191 93.75) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 193.5 48.75) (end 193.5 91.25) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 191 46.25) (end 193.5 48.75) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 148.5 46.25) (end 191 46.25) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 146 48.75) (end 148.5 46.25) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 146 93.25) (end 146 46.75) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 193 93.75) (end 146.5 93.75) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 193.5 46.75) (end 193.5 93.25) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 146.5 46.25) (end 193 46.25) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 153.5 88.75) (end 156 88.75) (layer F.SilkS) (width 0.2))
   (gr_line (start 161 88.75) (end 163.5 88.75) (layer F.SilkS) (width 0.2))
   (gr_line (start 176 88.75) (end 178.5 88.75) (layer F.SilkS) (width 0.2))
